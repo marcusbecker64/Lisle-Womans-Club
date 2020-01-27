@@ -1,0 +1,46 @@
+.bg-custom{
+    background-color: #734f96;
+}
+.card-body{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #734f96;
+}
+.divRight{
+    float: right;
+}
+.jumbotron{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #734f96;
+    background-color: white;
+}
+.jumbo-margin{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.navbar-second {
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+    margin-top: 105px;
+}
+.logo-font{
+    font-family: cursive;
+    font-size: 40px;
+}
+.header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-style: oblique;
+}
+.top-nav{
+    padding: 1% 25% 2% 25%;
+}
+.nav-item{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+body{
+    margin: 13% 10% 5% 10%;
+}
